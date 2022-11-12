@@ -11,3 +11,4 @@ networks:
     priority_fee: null
 wallets:
   from_key: ${PRIVATE_KEY}
+  from_key_2: ${PRIVATE_KEY_2}
